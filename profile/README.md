@@ -1,4 +1,4 @@
-# Catacula-theme
+# Catacula-theme and OS
 
 This theme is based on [catppuccin](https://github.com/catppuccin) and [dracula](https://github.com/dracula/dracula-theme).
 <table>
